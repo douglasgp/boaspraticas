@@ -103,3 +103,10 @@ Bibliografia básica:
 Bibliografia complementar:
 
 - Vide seção de referências de cada aula.
+
+Opinião de Alunos
+~~~~~~~~~~~~~~~~~
+
+- Aluno: Douglas Galdino
+
+Contribuição de opinião: usuário para realizar commit não possui permissão!
